@@ -42,7 +42,11 @@ categories: Java8
 
 [Java8初体验（二）Stream语法详解(这篇文章里画的图很不错)](http://ifeve.com/stream/)
 
-[filter-map-reduce-sort(廖大的，虽然讲的语言，但这些思想是通用的)](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014317852443934a86aa5bb5ea47fbbd5f35282b331335000)
+[函数式编程初探(阮大的，他网志里有很多好文章)](http://www.ruanyifeng.com/blog/2012/04/functional_programming.html)
+
+[Java 8新特性：lambda表达式(廖大的，都是大神级别的，简洁明了)](https://www.liaoxuefeng.com/article/001411306573093ce6ebcdd67624db98acedb2a905c8ea4000/)
+
+[filter-map-reduce-sort(还是廖大的，虽然讲的语言是Python，但这些思想是通用的)](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014317852443934a86aa5bb5ea47fbbd5f35282b331335000)
 
   
 

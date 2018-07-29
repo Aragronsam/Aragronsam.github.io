@@ -34,8 +34,7 @@ categories: Java8
 ![stream-8](http://aragron.com/images/posts/stream-8.jpeg)
 ![stream-9](http://aragron.com/images/posts/stream-9.jpeg)
 ![stream-10](http://aragron.com/images/posts/stream-10.jpeg)
-源码下载(按需自取)
-[下载源码](https://github.com/Aragronsam/weapon_pool)
+[源码下载(按需自取)](https://github.com/Aragronsam/weapon_pool)
 
 6 参考资料🔗
 

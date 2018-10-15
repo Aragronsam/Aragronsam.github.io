@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【原创】Streams初探
+title: 【Java】Streams初探
 categories: Java8
 ---
 

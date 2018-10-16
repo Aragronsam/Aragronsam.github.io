@@ -16,6 +16,8 @@ categories: Java8
 ##### 5 其它
 ##### 6 参考资料
 
+###### 如何优雅地处理集合
+
 1 数据准备
 ![stream-1](http://aragron.com/images/posts/stream-1.jpeg)
 2.1 需求一

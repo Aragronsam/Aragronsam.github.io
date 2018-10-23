@@ -41,7 +41,7 @@ title: Aragron's blog
 description: Recodrding life and waiting love for SuperM!.
 keywords: Jekyll Theme
 # url: http://Aragronsam.github.io
-url: http://www.aragron.com
+url: http://t.aragron.com
 feed: /atom.xml
 favicon: https://raw.githubusercontent.com/michaelliao/awesome-python3-webapp/day-03/www/favicon.ico
 
@@ -183,3 +183,9 @@ duoshuo:
   id: aragron
 
 theme: jekyll-theme-merlot
+
+pre_build:
+  commands:
+    - export LC_ALL="C.UTF-8"
+    - export LANG="en_US.UTF-8"
+    - export LANGUAGE="en_US.UTF-8"

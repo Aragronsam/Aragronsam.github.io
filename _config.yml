@@ -116,8 +116,8 @@ customLinks:
       url: http://www.cnblogs.com/
     - text: 供零在线
       url: http://glzxsit.yonghui.cn:8887/newvssportal/
-    - text: 辉oa
-      url: http://oa.yonghui.cn/oaapp/sys/portal/page.jsp?pageId=1532e63e52af0823316599c4a58838a2
+    - text: 掘金
+      url: https://juejin.im/user/5b8f5ecb5188255c7d21100c/books
     - text: 辉nexus
       url: http://10.0.31.189:8081/nexus/#welcome
     - text: 便签

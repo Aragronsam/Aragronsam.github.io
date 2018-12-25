@@ -146,8 +146,8 @@ customLinks:
       url: http://blog.51cto.com/cloumn/detail/4
     - text: V2ex
       url: https://www.v2ex.com/    
-    - text: Paysoa
-      url: http://10.0.18.175/nexus/#nexus-search;quick~paysoa    
+    - text: Lagou
+      url: https://www.lagou.com/jobs/list_Java?px=new&city=%E6%B7%B1%E5%9C%B3&district=%E5%8D%97%E5%B1%B1%E5%8C%BA#order
     - text: Http Requester
       url: https://packagecontrol.io/packages/Http%20Requester     
     - text: Scotch

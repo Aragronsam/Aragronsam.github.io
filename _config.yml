@@ -127,7 +127,7 @@ customLinks:
     - text: 辉_email
       url: http://mail.yonghui.cn/coremail/XT3/index.jsp?sid=BAZNEayTlgNItaCSFoTTcrhoOfjKtXha#/md=folder&_suid=121
     - text: 辉_Git_仓库
-      url: http://10.0.71.125/yhb2b/yh-vender-report
+      url: http://gitlab.yonghui.cn/
     message: Friends
   - item:
     - text: Google

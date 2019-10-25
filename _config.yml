@@ -112,8 +112,8 @@ customLinks:
       url: https://home.console.aliyun.com/#/
     - text: 腾讯云
       url: https://console.cloud.tencent.com/cvm/index
-    - text: 博客园
-      url: http://www.cnblogs.com/
+    - text: 程序员
+      url: http://blog.didispace.com/
     - text: 慕课网
       url: https://www.imooc.com/
     - text: 掘金
@@ -128,6 +128,10 @@ customLinks:
       url: http://mail.yonghui.cn/coremail/XT3/index.jsp?sid=BAZNEayTlgNItaCSFoTTcrhoOfjKtXha#/md=folder&_suid=121
     - text: 辉_Git_仓库
       url: http://gitlab.yonghui.cn/
+    - text: 芋道源码
+      url: http://www.iocoder.cn/
+    - text: vip源码
+      url: http://svip.iocoder.cn/index/
     message: Friends
   - item:
     - text: Google

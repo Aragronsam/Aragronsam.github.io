@@ -94,8 +94,8 @@ customLinks:
       url: https://www.msyy233.com/
     - text: 百度
       url: http://www.baidu.com/    
-    - text: 少数派
-      url: http://sspai.com/
+    - text: 简书
+      url: https://www.jianshu.com/u/465826ec6f26
     - text: 阮一峰
       url: http://www.ruanyifeng.com/
     - text: 廖雪峰
@@ -118,8 +118,8 @@ customLinks:
       url: https://www.imooc.com/
     - text: 掘金
       url: https://juejin.im/user/5b8f5ecb5188255c7d21100c/books
-    - text: 辉nexus
-      url: http://10.0.31.189:8081/nexus/#welcome
+    - text: 阿里
+      url: http://jm.taobao.org/
     - text: 便签
       url: https://cloud.smartisan.com/#/notes
     - text: 手册网

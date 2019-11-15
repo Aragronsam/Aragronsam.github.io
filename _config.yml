@@ -138,8 +138,8 @@ customLinks:
       url: https://www.google.com
     - text: Boot
       url: https://gitbook.cn/gitchat/column/5b86228ce15aa17d68b5b55a/topic/5baca87d80460e6b3d6f7abc
-    - text: Bilibili
-      url: https://www.bilibili.com/
+    - text: MyBatis-Plus
+      url: https://mp.baomidou.com/
     - text: W3school
       url: http://www.w3school.com.cn/  
     - text: Segmentfault

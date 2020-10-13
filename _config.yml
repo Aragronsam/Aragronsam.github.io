@@ -104,8 +104,8 @@ customLinks:
       url: https://www.comellia.com/
     - text: 浩
       url: https://fhaoer.com/
-    - text: 极客学院
-      url: https://wiki.jikexueyuan.com/project/intellij-idea-tutorial/
+    - text: IDEA
+      url: https://youmeek.gitbooks.io/intellij-idea-tutorial/content/debug-introduce.html
     - text: 开源中国
       url: https://www.oschina.net/project/top_cn_2019?utm_source=gitee_ad
     - text: 阿里云

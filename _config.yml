@@ -148,8 +148,8 @@ customLinks:
       url: http://stackoverflow.com/  
     - text: Boot51
       url: http://blog.51cto.com/cloumn/detail/4
-    - text: Socode
-      url: https://socode.pro/
+    - text: JDK1.8
+      url: https://www.matools.com/api/java8
     - text: Cyberpunk
       url: https://www.cyberpunk.net/cn/zh-cn/
     - text: Http Requester

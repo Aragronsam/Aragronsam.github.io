@@ -118,8 +118,8 @@ customLinks:
       url: https://www.imooc.com/
     - text: 美团
       url: https://tech.meituan.com
-    - text: 阿里
-      url: http://jm.taobao.org/
+    - text: 七牛
+      url: https://portal.qiniu.com/kodo/bucket/resource-v2?bucketName=aragronpicgo
     - text: 奇客谷
       url: https://www.qikegu.com
     - text: 手册网

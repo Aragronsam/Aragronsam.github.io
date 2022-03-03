@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【投资】2022投资印象
+title: 【投资】【ing】2022投资印象
 categories: Investment
 ---
 

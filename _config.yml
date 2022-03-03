@@ -114,8 +114,8 @@ customLinks:
       url: https://console.cloud.tencent.com/cvm/index
     - text: 程序员
       url: http://blog.didispace.com/
-    - text: 慕课网
-      url: https://www.imooc.com/
+    - text: 三体驻地球联络员
+      url: https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=1535205318
     - text: 美团
       url: https://tech.meituan.com
     - text: 七牛

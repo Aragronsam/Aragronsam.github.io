@@ -13,3 +13,8 @@ categories: Investment
 ![Investment-factors.md-5](http://r74vtd8b0.hd-bkt.clouddn.com/img/IMG_8006.PNG)
 ![Investment-factors.md-6](http://r74vtd8b0.hd-bkt.clouddn.com/img/IMG_8007.PNG)
 ![Investment-factors.md-7](http://r74vtd8b0.hd-bkt.clouddn.com/img/IMG_8008.PNG)
+
+-------------------------------------------------------------20220305-------------------------------------------------------------
+![Investment-factors.md-8](http://r74vtd8b0.hd-bkt.clouddn.com/img/IMG_0471.PNG)
+![Investment-factors.md-9](http://r74vtd8b0.hd-bkt.clouddn.com/img/IMG_0472.PNG)
+![Investment-factors.md-10](http://r74vtd8b0.hd-bkt.clouddn.com/img/IMG_0473.PNGπ)

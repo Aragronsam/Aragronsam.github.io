@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 【印象】第十周
-categories: Investment
+title: 斯坦福演讲
+categories: time
 ---
 
 

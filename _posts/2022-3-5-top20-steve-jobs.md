@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 【Time】斯坦福演讲
-categories: Time
+title: 【时刻】斯坦福演讲
+categories: 时刻
 ---
 
 

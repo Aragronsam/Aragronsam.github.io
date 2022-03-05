@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【人物】金灿荣_纵横家的别样成长经历
-categories: People
+categories: 人物
 ---
 
 ![jin-01](http://r74vtd8b0.hd-bkt.clouddn.com/img/jin-1.png)

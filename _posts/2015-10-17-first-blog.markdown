@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  【转】相信自己一定会进步
+title:  【思维】相信自己一定会进步
 date:   2015-10-17 20:44:38
-category: "Thinking"
+category: 思维
 ---
 
 Source：http://xiaolai.li/

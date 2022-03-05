@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  【原创】指环王片尾曲《Into the west》
+title:  【歌曲】指环王片尾曲《Into the west》
 date:   2015-10-7 23:07:09
-category: "Music"
+category: 歌曲
 ---
 
 ![](https://cloud.githubusercontent.com/assets/10320179/11015804/d2faa708-85a7-11e5-8015-712087b7ed9d.jpg)

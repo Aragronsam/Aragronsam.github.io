@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  【转】从一开始就按专家的方式做事
+title:  【思维】从一开始就按专家的方式做事
 date:   2015-10-18 19:29:32
-category: "Thinking"
+category: 思维
 ---
 
 Source：http://xiaolai.li/

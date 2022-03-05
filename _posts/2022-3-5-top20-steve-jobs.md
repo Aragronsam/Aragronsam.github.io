@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 【时刻】斯坦福演讲
-categories: 时刻
+title: 【感动】斯坦福演讲
+categories: 感动
 ---
 
 

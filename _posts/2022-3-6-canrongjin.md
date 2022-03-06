@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 【榜样】金灿荣_纵横家的别样成长经历
-categories: 榜样
+title: 【金灿荣】纵横家的别样成长经历
+categories: 金灿荣
 ---
 
 

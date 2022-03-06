@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【个人视野】启发
-categories: 个人视野
+category: 个人视野
 ---
 
 ![situation-0306-1](http://r74vtd8b0.hd-bkt.clouddn.com/img/situation-0306-1.png)

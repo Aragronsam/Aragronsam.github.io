@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【天下大势】2022
-categories: 天下大势
+category: 天下大势
 ---
 ![situation-1](http://r74vtd8b0.hd-bkt.clouddn.com/img/situation-1.PNG)
 ![jin-08](http://r74vtd8b0.hd-bkt.clouddn.com/img/jin-8.png)

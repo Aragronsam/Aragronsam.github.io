@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【金灿荣】纵横家的别样成长经历
-categories: 金灿荣
+category: 金灿荣
 ---
 
 

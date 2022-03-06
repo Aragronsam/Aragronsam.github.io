@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【Java】Streams初探
-categories: Java
+category: Java
 ---
 
 ### 目录

@@ -2,7 +2,7 @@
 layout: post
 title: 【Java】内部类
 excerpt: 内部类，局部内部类，匿名内部类，静态嵌套类
-categories: Java
+category: Java
 comments: true
 share: true
 ---

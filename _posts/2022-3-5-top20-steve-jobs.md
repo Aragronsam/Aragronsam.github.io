@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【珍藏】斯坦福演讲
-categories: 珍藏
+category: 珍藏
 ---
 
 

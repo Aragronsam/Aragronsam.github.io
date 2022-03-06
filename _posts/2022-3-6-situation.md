@@ -3,8 +3,7 @@ layout: post
 title: 【天下大势】2022
 category: 天下大势
 ---
-![responsibility](http://r74vtd8b0.hd-bkt.clouddn.com/img/responsibility.png)
-![story_new](http://r74vtd8b0.hd-bkt.clouddn.com/img/story_new.png)
+![story_new_final](http://r74vtd8b0.hd-bkt.clouddn.com/img/story_new_final.png)
 ![situation-1](http://r74vtd8b0.hd-bkt.clouddn.com/img/situation-1.PNG)
 ![jin-08](http://r74vtd8b0.hd-bkt.clouddn.com/img/jin-8.png)
 ![jin-09](http://r74vtd8b0.hd-bkt.clouddn.com/img/jin-9.png)

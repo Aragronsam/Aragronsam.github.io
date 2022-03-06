@@ -3,8 +3,7 @@ layout: post
 title: 【片段】个人
 category: 片段
 ---
-![responsibility](http://r74vtd8b0.hd-bkt.clouddn.com/img/responsibility.png)
-![story_new](http://r74vtd8b0.hd-bkt.clouddn.com/img/story_new.png)
+![story_new_final](http://r74vtd8b0.hd-bkt.clouddn.com/img/story_new_final.png)
 ![personal-1](http://r74vtd8b0.hd-bkt.clouddn.com/img/personal-1.png)
 ![personal-2](http://r74vtd8b0.hd-bkt.clouddn.com/img/personal-2.png)
 

@@ -4,7 +4,7 @@ title: 【珍藏】斯坦福演讲
 category: 珍藏
 ---
 
-
+![story](http://r74vtd8b0.hd-bkt.clouddn.com/img/story.png)
 ![top20-steve-jobs-02](http://r74vtd8b0.hd-bkt.clouddn.com/img/jobs-2.png)
 ![top20-steve-jobs-03](http://r74vtd8b0.hd-bkt.clouddn.com/img/jobs-3.png)
 ![top20-steve-jobs-04](http://r74vtd8b0.hd-bkt.clouddn.com/img/jobs-4.png)

@@ -4,7 +4,7 @@ title: 【片段】个人
 category: 片段
 ---
 ![responsibility](http://r74vtd8b0.hd-bkt.clouddn.com/img/responsibility.png)
-![story](http://r74vtd8b0.hd-bkt.clouddn.com/img/story.png)
+![story_new](http://r74vtd8b0.hd-bkt.clouddn.com/img/story_new.png)
 ![personal-1](http://r74vtd8b0.hd-bkt.clouddn.com/img/personal-1.png)
 ![personal-2](http://r74vtd8b0.hd-bkt.clouddn.com/img/personal-2.png)
 

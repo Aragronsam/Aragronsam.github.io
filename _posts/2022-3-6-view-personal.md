@@ -4,7 +4,7 @@ title: 【个人视野】启发
 category: 个人视野
 ---
 ![responsibility](http://r74vtd8b0.hd-bkt.clouddn.com/img/responsibility.png)
-![story](http://r74vtd8b0.hd-bkt.clouddn.com/img/story.png)
+![story_new](http://r74vtd8b0.hd-bkt.clouddn.com/img/story_new.png)
 ![situation-0306-1](http://r74vtd8b0.hd-bkt.clouddn.com/img/situation-0306-1.png)
 ![situation-0306-2](http://r74vtd8b0.hd-bkt.clouddn.com/img/situation-0306-2.png)
 ![situation-0306-3](http://r74vtd8b0.hd-bkt.clouddn.com/img/situation-0306-3.png)

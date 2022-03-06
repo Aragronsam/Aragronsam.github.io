@@ -4,7 +4,7 @@ title: 【金灿荣】纵横家的别样成长经历
 category: 金灿荣
 ---
 ![responsibility](http://r74vtd8b0.hd-bkt.clouddn.com/img/responsibility.png)
-![story](http://r74vtd8b0.hd-bkt.clouddn.com/img/story.png)
+![story_new](http://r74vtd8b0.hd-bkt.clouddn.com/img/story_new.png)
 ![jin-02](http://r74vtd8b0.hd-bkt.clouddn.com/img/jin-2.png)
 ![jin-03](http://r74vtd8b0.hd-bkt.clouddn.com/img/jin-3.png)
 ![jin-04](http://r74vtd8b0.hd-bkt.clouddn.com/img/jin-4.png)

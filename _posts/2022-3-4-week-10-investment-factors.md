@@ -19,6 +19,7 @@ categories: 视野
 ![Investment-factors.md-8](http://r74vtd8b0.hd-bkt.clouddn.com/img/IMG_0471.PNG)
 ![Investment-factors.md-9](http://r74vtd8b0.hd-bkt.clouddn.com/img/IMG_0472.PNG)
 ![Investment-factors.md-10](http://r74vtd8b0.hd-bkt.clouddn.com/img/IMG_0473.PNG)
+![factors-1](http://r74vtd8b0.hd-bkt.clouddn.com/img/factors-1.png)
 
 
 

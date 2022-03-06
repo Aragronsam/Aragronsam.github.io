@@ -3,6 +3,7 @@ layout: post
 title: 【原理】投资
 category: 原理
 ---
+![responsibility](http://r74vtd8b0.hd-bkt.clouddn.com/img/responsibility.png)
 ![story](http://r74vtd8b0.hd-bkt.clouddn.com/img/story.png)
 -------------------------------------------------------------投资-------------------------------------------------------------
 ![finance-1](http://r74vtd8b0.hd-bkt.clouddn.com/img/finance-1.png)

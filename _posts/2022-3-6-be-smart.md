@@ -3,6 +3,7 @@ layout: post
 title: 【金灿荣】大家
 category: 金灿荣
 ---
+![responsibility](http://r74vtd8b0.hd-bkt.clouddn.com/img/responsibility.png)
 ![story](http://r74vtd8b0.hd-bkt.clouddn.com/img/story.png)
 -------------------------------------------------------------金灿荣-------------------------------------------------------------
 ![smart-1](http://r74vtd8b0.hd-bkt.clouddn.com/img/smart-1.png)

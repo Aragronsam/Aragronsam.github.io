@@ -3,7 +3,7 @@ layout: post
 title: 【珍藏】斯坦福演讲
 category: 珍藏
 ---
-
+![responsibility](http://r74vtd8b0.hd-bkt.clouddn.com/img/responsibility.png)
 ![story](http://r74vtd8b0.hd-bkt.clouddn.com/img/story.png)
 ![top20-steve-jobs-02](http://r74vtd8b0.hd-bkt.clouddn.com/img/jobs-2.png)
 ![top20-steve-jobs-03](http://r74vtd8b0.hd-bkt.clouddn.com/img/jobs-3.png)

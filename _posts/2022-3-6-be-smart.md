@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 【金灿荣】大家
-category: 金灿荣
+title: 【大家】金灿荣
+category: 大家
 ---
 ![story_new_final](http://r74vtd8b0.hd-bkt.clouddn.com/img/story_new_final.png)
 -------------------------------------------------------------金灿荣-------------------------------------------------------------

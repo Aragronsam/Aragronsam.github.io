@@ -49,7 +49,7 @@ favicon: https://raw.githubusercontent.com/michaelliao/awesome-python3-webapp/da
 nav:
   - text: 首页
     url: /index.html
-  - text: 幸福源动力 
+  - text: 源动力
     url: /categories.html
   - text: 编程
     url: /archives.html

@@ -18,7 +18,7 @@ category: 天下大势
 ![situation-12](http://r74vtd8b0.hd-bkt.clouddn.com/img/situation-12.png)
 
 
-![tiankeng](http://r74vtd8b0.hd-bkt.clouddn.com/img/tiankeng.png)
+![wanshan](http://r74vtd8b0.hd-bkt.clouddn.com/img/wanshan.png)
 
 
 

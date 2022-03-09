@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 【天下大势】2022
-category: 天下大势
+title: 【势】2022
+category: 势
 ---
 ![story_new_final](http://r74vtd8b0.hd-bkt.clouddn.com/img/story_new_final.png)
 ![situation-1](http://r74vtd8b0.hd-bkt.clouddn.com/img/situation-1.PNG)

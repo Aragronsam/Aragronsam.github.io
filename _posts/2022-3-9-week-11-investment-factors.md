@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【投资视野】第十一周
+title: 【视野】第十一周
 category: 投资视野
 ---
 ![story_new_final](http://r74vtd8b0.hd-bkt.clouddn.com/img/story_new_final.png)

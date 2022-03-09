@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【个人视野】启发
+title: 【视野】启发
 category: 个人视野
 ---
 ![story_new_final](http://r74vtd8b0.hd-bkt.clouddn.com/img/story_new_final.png)

@@ -16,6 +16,11 @@ category: 势
 ![situation-5](http://r74vtd8b0.hd-bkt.clouddn.com/img/situation-5.png)
 ![situation-11](http://r74vtd8b0.hd-bkt.clouddn.com/img/situation-11.png)
 ![situation-12](http://r74vtd8b0.hd-bkt.clouddn.com/img/situation-12.png)
+![factors-0310-9.png](http://r74vtd8b0.hd-bkt.clouddn.com/img/factors-0310-9.png)
+![factors-0310-10.png](http://r74vtd8b0.hd-bkt.clouddn.com/img/factors-0310-10.png)
+![factors-0310-11.png](http://r74vtd8b0.hd-bkt.clouddn.com/img/factors-0310-11.png)
+![factors-0310-12.png](http://r74vtd8b0.hd-bkt.clouddn.com/img/factors-0310-12.png)
+![factors-0310-13.png](http://r74vtd8b0.hd-bkt.clouddn.com/img/factors-0310-13.png)
 
 
 ![wanshan](http://r74vtd8b0.hd-bkt.clouddn.com/img/wanshan.png)

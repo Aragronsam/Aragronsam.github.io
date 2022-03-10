@@ -21,6 +21,8 @@ category: 势
 ![factors-0310-11.png](http://r74vtd8b0.hd-bkt.clouddn.com/img/factors-0310-11.png)
 ![factors-0310-12.png](http://r74vtd8b0.hd-bkt.clouddn.com/img/factors-0310-12.png)
 ![factors-0310-13.png](http://r74vtd8b0.hd-bkt.clouddn.com/img/factors-0310-13.png)
+![factors-0310-14.png](http://r74vtd8b0.hd-bkt.clouddn.com/img/factors-0310-14.png)
+![factors-0310-15.png](http://r74vtd8b0.hd-bkt.clouddn.com/img/factors-0310-15.png)
 
 
 ![wanshan](http://r74vtd8b0.hd-bkt.clouddn.com/img/wanshan.png)

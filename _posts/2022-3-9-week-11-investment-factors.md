@@ -33,6 +33,11 @@ category: 投资视野
 ![factors-0312-4.png](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/factors-0312-4.png)
 ![factors-0312-5.png](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/factors-0312-5.png)
 ![factors-0312-6.png](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/factors-0312-6.png)
+-------------------------------------------------------------20220313-------------------------------------------------------------
+![factors-220313-1.png](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/factors-220313-1.png)
+![factors-220313-2.png](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/factors-220313-2.png)
+![factors-220313-3.png](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/factors-220313-3.png)
+![factors-220313-4.png](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/factors-220313-4.png)
 
 
 

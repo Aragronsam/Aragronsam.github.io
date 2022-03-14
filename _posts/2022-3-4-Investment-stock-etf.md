@@ -11,4 +11,5 @@ category: 投资逻辑
 ![logic-0314-3.png](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/logic-0314-3.png)
 ![logic-0314-4.png](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/logic-0314-4.png)
 ![logic-0314-5.png](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/logic-0314-5.png)
+![logic-0314-6.png](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/logic-0314-6.png)
 ![wanshan](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/wanshan.png)

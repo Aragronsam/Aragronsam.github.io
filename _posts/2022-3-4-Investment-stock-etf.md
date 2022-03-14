@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【投资品种】指数基金
-category: 投资逻辑
+category: 投资品种
 ---
 ---------------------------------------------------------------证券指数基金-------------------------------------------------------
 ![story_new_final](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/story_new_final.png)

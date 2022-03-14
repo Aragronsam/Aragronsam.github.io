@@ -9,6 +9,7 @@ category: 电竞
 ![pel-03](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/pel-3.jpg)
 ![pel-01](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/pel-1.jpg)
 -------------------------------------------------------------第二天20220305-------------------------------------------------------------
+![moment-220314-1.png](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/moment-220314-1.png)
 ![pel-220305-1](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/pel-220305-1.png)
 ![pel-220305-2](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/pel-220305-2.png)
 ![pel-220305-3](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/pel-220305-3.png)

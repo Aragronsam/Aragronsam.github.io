@@ -8,4 +8,6 @@ category: 投资逻辑
 ![weijia-1](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/weijia-1.jpg)
 ![logic-0314-1.png](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/logic-0314-1.png)
 ![logic-0314-2.png](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/logic-0314-2.png)
+![logic-0314-3.png](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/logic-0314-3.png)
+![logic-0314-4.png](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/logic-0314-4.png)
 ![wanshan](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/wanshan.png)

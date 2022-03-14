@@ -14,6 +14,7 @@ category: 投资视野
 ![Investment-factors.md-7](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/IMG_8008.PNG)
 
 -------------------------------------------------------------20220305-------------------------------------------------------------
+![moment-220314-1.png](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/moment-220314-1.png)
 ![Investment-factors.md-8](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/IMG_0471.PNG)
 ![Investment-factors.md-9](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/IMG_0472.PNG)
 ![Investment-factors.md-10](https://raw.githubusercontent.com/Aragronsam/blog-pic/main/IMG_0473.PNG)

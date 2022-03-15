@@ -60,7 +60,7 @@ nav:
 
 #Author config
 author:
-    name: 张诚
+    name: aragron
     email: aragronvip@163.com
     imageLink: https://cloud.githubusercontent.com/assets/10320179/22134218/65521f48-df00-11e6-8b4c-6663296fae51.jpg
     simpleIntro: 一只会思考的螃蟹座。
@@ -144,8 +144,8 @@ customLinks:
       url: https://www.oschina.net/project/top_cn_2019?utm_source=gitee_ad
     - text: W3school
       url: http://www.w3school.com.cn/  
-    - text: Segmentfault
-      url: http://segmentfault.com/
+    - text: Mashibing
+      url: https://www.mashibing.com/subject/1
     - text: Stackoverflow
       url: http://stackoverflow.com/  
     - text: Boot51

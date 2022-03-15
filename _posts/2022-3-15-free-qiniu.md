@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【工具】白嫖七牛图床
+title: 【工具】无限白嫖七牛图床
 category: 工具
 ---
 ![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final.png)

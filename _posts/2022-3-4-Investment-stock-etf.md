@@ -13,3 +13,7 @@ category: 投资品种
 ![logic-0314-5.png](http://r8s97vm6g.hd-bkt.clouddn.com/img/logic-0314-5.png)
 ![logic-0314-6.png](http://r8s97vm6g.hd-bkt.clouddn.com/img/logic-0314-6.png)
 ![wanshan](http://r8s97vm6g.hd-bkt.clouddn.com/img/wanshan.png)
+-------------------------------------------------------------20220316-------------------------------------------------------------
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-0316-6.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-0316-7.PNG)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-0316-8.PNG)

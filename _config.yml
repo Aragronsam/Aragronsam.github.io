@@ -91,7 +91,7 @@ follow:
 customLinks:
   - item:    
     - text: 股社区
-      url: http://www.gushequ.com/
+      url: https://mp.weixin.qq.com/s/-LiHL4nBJ3up8nCmReOV4Q
     - text: 码上有约
       url: https://www.msyy233.com/
     - text: 百度
@@ -112,7 +112,7 @@ customLinks:
       url: https://www.macwk.com/
     - text: 阿里云
       url: https://home.console.aliyun.com/#/
-    - text: 腾讯云
+    - text: 极客时间
       url: https://console.cloud.tencent.com/cvm/index
     - text: 程序员
       url: http://blog.didispace.com/

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【工作】理想
+title: 【工作】抉择
 category: 工作
 ---
 ![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final.png)

@@ -3,7 +3,7 @@ layout: post
 title: 【视野】第十一周
 category: 投资视野
 ---
-![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final.png)
+![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final_0317.png)
 -------------------------------------------------------------20220308-------------------------------------------------------------
 ![factors-0308-1.png](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-0308-1.png)
 ![factors-0308-2.png](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-0308-2.png)

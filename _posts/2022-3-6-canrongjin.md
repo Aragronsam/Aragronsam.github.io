@@ -3,7 +3,7 @@ layout: post
 title: 【金灿荣】纵横家的别样成长经历
 category: 金灿荣
 ---
-![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final.png)
+![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final_0317.png)
 ![jin-02](http://r8s97vm6g.hd-bkt.clouddn.com/img/jin-2.png)
 ![jin-03](http://r8s97vm6g.hd-bkt.clouddn.com/img/jin-3.png)
 ![jin-04](http://r8s97vm6g.hd-bkt.clouddn.com/img/jin-4.png)

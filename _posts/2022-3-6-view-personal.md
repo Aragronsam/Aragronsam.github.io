@@ -3,7 +3,7 @@ layout: post
 title: 【视野】启发
 category: 个人视野
 ---
-![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final.png)
+![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final_0317.png)
 ![situation-0312-1.png](http://r8s97vm6g.hd-bkt.clouddn.com/img/situation-0312-1.png)
 ![situation-0306-1](http://r8s97vm6g.hd-bkt.clouddn.com/img/situation-0306-1.png)
 ![situation-0306-2](http://r8s97vm6g.hd-bkt.clouddn.com/img/situation-0306-2.png)

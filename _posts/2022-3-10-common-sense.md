@@ -3,7 +3,7 @@ layout: post
 title: 【常识】金融
 category: 常识
 ---
-![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final.png)
+![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final_0317.png)
 ![personal-2](http://r8s97vm6g.hd-bkt.clouddn.com/img/personal-2.png)
 ![fragment-3](http://r8s97vm6g.hd-bkt.clouddn.com/img/fragment-3.png)
 ![fragment-4](http://r8s97vm6g.hd-bkt.clouddn.com/img/fragment-4.png)

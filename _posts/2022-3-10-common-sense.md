@@ -11,6 +11,7 @@ category: 常识
 ![fragment-7](http://r8s97vm6g.hd-bkt.clouddn.com/img/fragment-7.jpg)
 ![common-sense-220310-1](http://r8s97vm6g.hd-bkt.clouddn.com/img/common-sense-220310-1.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/common-sense-220315-1.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/common-sense-220317-1.jpeg)
 ![wanshan](http://r8s97vm6g.hd-bkt.clouddn.com/img/wanshan.png)
 
 

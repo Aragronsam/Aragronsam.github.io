@@ -34,6 +34,7 @@ category: 投资视野
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-0317-7.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-0317-8.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-0317-9.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-0317-10.png)
 
 
 

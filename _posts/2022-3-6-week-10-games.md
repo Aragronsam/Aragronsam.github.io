@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【电竞】和平精英PEL职业联赛_2022_第一周
+title: 【电竞】和平精英PEL职业联赛_2022_季前排位赛
 category: 电竞
 ---
 ![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final_0317.png)

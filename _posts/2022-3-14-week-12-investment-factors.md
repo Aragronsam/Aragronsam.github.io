@@ -48,6 +48,8 @@ category: 投资视野
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/risk-0319-5.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/risk-0319-6.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/risk-0319-7.png)
+-------------------------------------------------------------20220320-------------------------------------------------------------
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-0320-1.png)
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【工作】云原生工程师_公开课第一节
+title: 【工作】云原生_chapter1
 category: 工作
 ---
 ![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final_0317.png)

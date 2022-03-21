@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 【工作】云原生_chapter1
-category: 工作
+title: 【笔记】云原生_chapter1
+category: 笔记
 ---
 ![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final_0317.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/docker-0320-1.png)

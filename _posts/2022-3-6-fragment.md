@@ -3,7 +3,7 @@ layout: post
 title: 【片段】个人
 category: 片段
 ---
-![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final_0317.png)
+![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final_0322.png)
 ![personal-1](http://r8s97vm6g.hd-bkt.clouddn.com/img/personal-1.png)
 ![fragment-8](http://r8s97vm6g.hd-bkt.clouddn.com/img/fragment-8.jpg)
 ![fragment-220313-1.png](http://r8s97vm6g.hd-bkt.clouddn.com/img/fragment-220313-1.png)

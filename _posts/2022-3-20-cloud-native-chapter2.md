@@ -3,7 +3,7 @@ layout: post
 title: 【笔记】云原生_chapter2
 category: 笔记
 ---
-![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final_0317.png)
+![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final_0322.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/chapter2-0320-cloud-native-1.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/chapter2-0320-cloud-native-2.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/chapter2-0320-cloud-native-3.png)

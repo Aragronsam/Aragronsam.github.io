@@ -3,7 +3,7 @@ layout: post
 title: 【大家】金灿荣
 category: 大家
 ---
-![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final_0317.png)
+![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final_0322.png)
 -------------------------------------------------------------金灿荣-------------------------------------------------------------
 ![smart-1](http://r8s97vm6g.hd-bkt.clouddn.com/img/smart-1.png)
 ![smart-2](http://r8s97vm6g.hd-bkt.clouddn.com/img/smart-2.png)

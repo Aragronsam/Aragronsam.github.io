@@ -168,8 +168,8 @@ customLinks:
       url: http://jsfiddle.net/BXZk2/
     - text: JQuery      
       url: https://oscarotero.com/jquery/
-    - text: Shimo
-      url: https://shimo.im/desktop
+    - text: Go
+      url: https://class.imooc.com/sale/go
     - text: Morty
       url: https://space.bilibili.com/393260578/video
     message: Others

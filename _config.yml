@@ -162,8 +162,8 @@ customLinks:
       url: http://pizn.github.io/kunka/contact.html
     - text: Codecademy
       url: https://www.codecademy.com/en/courses/learn-sql/lessons/manipulation/exercises/relational-databases
-    - text: Lifesinger      
-      url: https://github.com/lifesinger/blog/issues
+    - text: Vuepress
+      url: https://doc.xugaoyi.com/pages/0fc1d2/
     - text: Jsfiddle      
       url: http://jsfiddle.net/BXZk2/
     - text: JQuery      

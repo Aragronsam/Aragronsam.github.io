@@ -18,6 +18,9 @@ category: 个人视野
 ![situation-0306-6](http://r8s97vm6g.hd-bkt.clouddn.com/img/situation-0306-6.png)
 ![situation-0306-7](http://r8s97vm6g.hd-bkt.clouddn.com/img/situation-0306-7.png)
 ![situation-0306-8](http://r8s97vm6g.hd-bkt.clouddn.com/img/situation-0306-8.png)
+![situation-0306-8](http://r8s97vm6g.hd-bkt.clouddn.com/img/situation-0324-1.png)
+![situation-0306-8](http://r8s97vm6g.hd-bkt.clouddn.com/img/situation-0324-2.png)
+![situation-0306-8](http://r8s97vm6g.hd-bkt.clouddn.com/img/situation-0324-3.png)
 ![wanshan](http://r8s97vm6g.hd-bkt.clouddn.com/img/wanshan.png)
 
 

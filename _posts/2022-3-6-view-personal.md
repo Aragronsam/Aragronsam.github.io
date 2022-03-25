@@ -4,7 +4,6 @@ title: 【视野】启发
 category: 个人视野
 ---
 ![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final_0322.png)
-![situation-0312-1.png](http://r8s97vm6g.hd-bkt.clouddn.com/img/situation-0312-1.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/jin-220325-1.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/jin-220325-2.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/jin-220325-3.png)
@@ -19,6 +18,7 @@ category: 个人视野
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/jin-220325-14.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/jin-220325-10.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/jin-220325-11.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/situation-0312-1.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/situation-0322-1.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/fragment-220322-2.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/fragment-220322-3.png)

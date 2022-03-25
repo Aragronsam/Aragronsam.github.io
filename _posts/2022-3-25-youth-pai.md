@@ -11,4 +11,5 @@ category: 电影
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/youth-pai-220325-4.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/youth-pai-220325-5.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/youth-pai-220325-6.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/youth-pai-220325-7.JPG)
 ![wanshan](http://r8s97vm6g.hd-bkt.clouddn.com/img/wanshan.png)

@@ -35,6 +35,18 @@ category: 个人视野
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/situation-0324-1.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/situation-0324-2.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/situation-0324-3.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/inspire-220326-1.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/inspire-220326-2.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/inspire-220326-3.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/inspire-220326-4.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/inspire-220326-5.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/inspire-220326-6.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/inspire-220326-7.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/inspire-220326-8.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/inspire-220326-9.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/inspire-220326-10.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/inspire-220326-11.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/inspire-220326-12.png)
 ![wanshan](http://r8s97vm6g.hd-bkt.clouddn.com/img/wanshan.png)
 
 

@@ -96,8 +96,8 @@ customLinks:
       url: https://m.toutiaocdn.com/i6931932048873554436/?app=news_article&timestamp=1647905682&use_new_style=1&req_id=202203220734410101420381330C11FCA2&group_id=6931932048873554436
     - text: 百度
       url: http://www.baidu.com/    
-    - text: 简书
-      url: https://www.jianshu.com/u/465826ec6f26
+    - text: 日历
+      url: https://www.baidu.com/s?wd=2022+%E6%97%A5%E5%8E%86&tn=84053098_3_dg&ie=utf-8
     - text: 阮一峰
       url: http://www.ruanyifeng.com/
     - text: 廖雪峰

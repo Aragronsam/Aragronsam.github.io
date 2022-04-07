@@ -9,6 +9,19 @@ category: 投资视野
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-220404-2.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-220404-3.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-220404-4.png)
+--------------------------------------------20220405---------------------------------------
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-220405-1.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-220405-2.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-220405-3.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-220405-4.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-220405-5.png)
+--------------------------------------------20220406---------------------------------------
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-220406-1.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-220406-2.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-220406-3.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-220406-4.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-220406-5.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-220406-6.png)
 
   
 

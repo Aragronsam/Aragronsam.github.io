@@ -17,4 +17,5 @@ category: 投资品种
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/etf-0319-1.jpeg)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-220404-4.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/etf-220405-1.png)
+![](http://r8s97vm6g.hd-bkt.clouddn.com/img/factors-220327-2.png)
 ![wanshan](http://r8s97vm6g.hd-bkt.clouddn.com/img/wanshan.png)

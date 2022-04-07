@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 【常识】保险
-category: 常识
+title: 【电影】指环王
+category: 电影
 ---
 ![story_new_final](http://r8s97vm6g.hd-bkt.clouddn.com/img/story_new_final_0322.png)
 ![](http://r8s97vm6g.hd-bkt.clouddn.com/img/rings-220405-1.png)

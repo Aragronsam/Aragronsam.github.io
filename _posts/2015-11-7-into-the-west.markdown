@@ -5,7 +5,7 @@ date:   2015-10-7 23:07:09
 category: 歌曲
 ---
 
-![](http://r8s97vm6g.hd-bkt.clouddn.com/img/newzland.jpg)
+![](http://rab41f8zg.hd-bkt.clouddn.com/img/newzland.jpg)
 
 
 #Into the west 

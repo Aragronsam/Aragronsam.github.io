@@ -54,6 +54,9 @@ category: 个人视野
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/inspire-220327-5.png)
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/inspire-220327-7.png)
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/inspire-220327-6.png)
+![](http://rab41f8zg.hd-bkt.clouddn.com/img/inspire-220414-1.png)
+![](http://rab41f8zg.hd-bkt.clouddn.com/img/inspire-220414-2.png)
+![](http://rab41f8zg.hd-bkt.clouddn.com/img/inspire-220414-3.png)
 ![wanshan](http://rab41f8zg.hd-bkt.clouddn.com/img/wanshan.png)
 
 

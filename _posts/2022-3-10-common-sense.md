@@ -13,6 +13,10 @@ category: 常识
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/common-sense-220315-1.png)
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/common-sense-220317-1.jpeg)
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/common-sense-220319-1.jpeg)
+--------------------------------------------------20220414------------------------------------------------
+![](http://rab41f8zg.hd-bkt.clouddn.com/img/factors-220414-1.png)
+![](http://rab41f8zg.hd-bkt.clouddn.com/img/factors-220414-3.png)
+![](http://rab41f8zg.hd-bkt.clouddn.com/img/factors-220414-5.png)
 ![wanshan](http://rab41f8zg.hd-bkt.clouddn.com/img/wanshan.png)
 
 

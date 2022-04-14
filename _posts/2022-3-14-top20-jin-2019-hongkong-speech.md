@@ -4,6 +4,7 @@ title: 【珍藏】金灿荣：风云变幻下的世界格局和大国关系（2
 category: 珍藏
 ---
 ![story_new_final](http://rab41f8zg.hd-bkt.clouddn.com/img/story_new_final_0322.png)
+![](http://rab41f8zg.hd-bkt.clouddn.com/img/jin-hongkong-220414-1.jpg)
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/jin-hongkong-0316-1.png)
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/jin-hongkong-0316-2.png)
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/jin-hongkong-0316-3.png)

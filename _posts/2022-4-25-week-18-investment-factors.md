@@ -7,6 +7,10 @@ category: 投资视野
 --------------------------------------------------20220425------------------------------------------------
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220425-1.png)
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/long-time-see-220425-1.jpeg)
+--------------------------------------------------20220426------------------------------------------------
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220426-1.png)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220426-2.png)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220426-3.png)
   
 
 

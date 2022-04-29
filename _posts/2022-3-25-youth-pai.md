@@ -4,7 +4,6 @@ title: 【电影】青春派
 category: 电影
 ---
 ![story_new_final](http://rab41f8zg.hd-bkt.clouddn.com/img/story_new_final_0322.png)
-![story_new_final](http://rab41f8zg.hd-bkt.clouddn.com/img/love-top-220325-2.png)
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/youth-pai-220325-1.png)
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/youth-pai-220325-2.png)
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/youth-pai-220325-3.png)

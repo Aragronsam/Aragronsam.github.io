@@ -31,6 +31,9 @@ category: 势
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220422-2.png)
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220422-3.png)
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220422-4.png)
+--------------------------------------------------20220429------------------------------------------------
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220429-1.png)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220429-2.png)
 
 
 ![wanshan](http://rab41f8zg.hd-bkt.clouddn.com/img/wanshan.png)

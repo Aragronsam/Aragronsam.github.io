@@ -17,6 +17,9 @@ category: 常识
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/factors-220414-3.png)
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/factors-220414-5.png)
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/situation-220418-1.jpg)
+--------------------------------------------------20220429------------------------------------------------
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220429-1.png)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220429-2.png)
 ![wanshan](http://rab41f8zg.hd-bkt.clouddn.com/img/wanshan.png)
 
 

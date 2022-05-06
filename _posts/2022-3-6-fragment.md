@@ -43,7 +43,6 @@ category: 片段
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/fragment-220421-2.png)
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/fragment-220422-1.png)
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/fragment-220506-1.jpeg)
-![](https://article-images.zsxq.com/Fp5Gzg-FlkPZC_npYZi2TeI08bqS)
 ![wanshan](http://rab41f8zg.hd-bkt.clouddn.com/img/wanshan.png)
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【...】..
+title: 【...】社会主义股市
 category: ...
 ---
 ![story_new_final](http://rab41f8zg.hd-bkt.clouddn.com/img/story_new_final_0322.png)

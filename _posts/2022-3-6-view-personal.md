@@ -5,6 +5,10 @@ category: 个人视野
 ---
 ![story_new_final](http://rab41f8zg.hd-bkt.clouddn.com/img/story_new_final_0322.png)
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/moment-220505-1.png)
+--------------------------------------------------20220506------------------------------------------------
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/funny-220506-1.jpg)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/funny-220506-2.jpg)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/funny-220506-3.jpg)
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/jin-220325-1.png)
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/jin-220325-2.png)
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/jin-220325-3.png)

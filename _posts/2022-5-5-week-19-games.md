@@ -17,6 +17,11 @@ category: 电竞
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/pel-220505-8.jpg)
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/pel-220505-9.jpg)
 --------------------------------------------------20220506-----------------------------------------------
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/pel-220506-new-1.jpg)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/pel-220506-new-2.jpg)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/pel-220506-new-3.jpg)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/pel-220506-new-4.jpg)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/pel-220506-new-5.jpg)
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/pel-220506-4.jpg)
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/pel-220506-7.jpg)
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/pel-220506-1.jpg)

@@ -17,4 +17,7 @@ category: 投资
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220508-2.jpg)
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220508-3.jpg)
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220508-4.jpg)
+--------------------------------------------------20220509------------------------------------------------
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220509-1.png)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220509-2.png)
 ![wanshan](http://rab41f8zg.hd-bkt.clouddn.com/img/wanshan.png)

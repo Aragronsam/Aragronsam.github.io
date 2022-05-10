@@ -4,6 +4,7 @@ title: 【视野】启发
 category: 个人视野
 ---
 ![story_new_final](http://rab41f8zg.hd-bkt.clouddn.com/img/story_new_final_0322.png)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/inspire-220510-1.png)
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/moment-220505-1.png)
 --------------------------------------------------20220506------------------------------------------------
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/funny-220506-1.jpg)

@@ -14,7 +14,7 @@ category: 趣事
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220507-5.png)
 --------------------------------------------------20220508------------------------------------------------
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/funny-220508-1.jpg)
-![](http://ran7ztk3m.hd-bkt.clouddn.com/img/funny-220508-2.jpg)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/funny-220508-2-new.png)
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/funny-220508-new-1.png)
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/funny-220508-new-2.png)
   

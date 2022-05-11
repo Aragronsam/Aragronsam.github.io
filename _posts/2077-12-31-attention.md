@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【时间之外】人性
+title: 【时间之外】虫子
 category: 时间之外
 ---
 ![top](http://rab41f8zg.hd-bkt.clouddn.com/img/top-220325-2.png)

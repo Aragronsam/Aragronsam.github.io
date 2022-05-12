@@ -4,6 +4,13 @@ title: 【势】2022
 category: 势
 ---
 ![story_new_final](http://rab41f8zg.hd-bkt.clouddn.com/img/story_new_final_0322.png)
+--------------------------------------------------20220512------------------------------------------------
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220512-1.png)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220512-2.png)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220512-3.png)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220512-4.png)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220512-5.png)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220512-6.png)
 --------------------------------------------------20220511------------------------------------------------
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220511-1.png)
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220511-2.png)

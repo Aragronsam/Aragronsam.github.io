@@ -4,6 +4,14 @@ title: 【投资】财商
 category: 投资
 ---
 ![story_new_final](http://rab41f8zg.hd-bkt.clouddn.com/img/story_new_final_0322.png)
+--------------------------------------------------20220512------------------------------------------------
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220512-1.png)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220512-2.png)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220512-3.png)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220512-4.png)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220512-5.png)
+![](http://ran7ztk3m.hd-bkt.clouddn.com/img/factors-220512-6.png)
+---------------------------------------------------------------------------------------------------------.
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/financial-IQ-220324-1.PNG)
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/financial-IQ-220325-1.PNG)
 ![](http://rab41f8zg.hd-bkt.clouddn.com/img/situation-220418-1.jpg)

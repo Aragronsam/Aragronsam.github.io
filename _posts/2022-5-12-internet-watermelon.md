@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【罗生门】那些年我们一起吃过的瓜
+title: 【罗生门】瓜田里的猹
 category: 罗生门
 ---
 ![story_new_final](http://rab41f8zg.hd-bkt.clouddn.com/img/story_new_final_0322.png)

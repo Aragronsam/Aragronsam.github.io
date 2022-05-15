@@ -3,7 +3,7 @@ layout: post
 title: 【趣事】第十九周
 category: 趣事
 ---
-![story_new_final](http://rab41f8zg.hd-bkt.clouddn.com/img/story_new_final_0322.png)
+![story_new_final](http://rbwl8nwm4.hd-bkt.clouddn.com/img/story_new_final_0322.png)
 --------------------------------------------------20220504------------------------------------------------
 ![](http://ran7ztk3m.hd-bkt.clouddn.com/img/funny-220504-b-1.png)
 --------------------------------------------------20220506-----------------------------------------------

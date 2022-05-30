@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【电竞】扒拉boy
+title: 【电竞】Paraboy
 category: 电竞
 ---
 ![story_new_final](http://rbwl8nwm4.hd-bkt.clouddn.com/img/story_new_final_0322.png)

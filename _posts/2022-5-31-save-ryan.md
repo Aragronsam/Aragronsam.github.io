@@ -9,6 +9,5 @@ category: 电影
 ![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/save-ryan-220531-6.jpg)
 ![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/save-ryan-220531-4.jpg)
 ![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/save-ryan-220531-3.jpg)
-![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/save-ryan-220531-3.jpg)
 ![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/save-ryan-220531-1.jpg)
 ![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/save-ryan-220531-2.jpg)

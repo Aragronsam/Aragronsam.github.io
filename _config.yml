@@ -147,8 +147,8 @@ customLinks:
       url: http://www.w3school.com.cn/  
     - text: Mashibing
       url: https://www.mashibing.com/subject/1
-    - text: Stackoverflow
-      url: http://stackoverflow.com/  
+    - text: Fontawesome
+      url: https://fontawesome.com/search?favorites=staff
     - text: Boot51
       url: http://blog.51cto.com/cloumn/detail/4
     - text: PEL
@@ -167,8 +167,8 @@ customLinks:
       url: https://doc.xugaoyi.com/pages/0fc1d2/
     - text: Jsfiddle      
       url: http://jsfiddle.net/BXZk2/
-    - text: JQuery      
-      url: https://oscarotero.com/jquery/
+    - text: Flaticon
+      url: https://www.flaticon.com/stickers-pack/animals-139
     - text: Go
       url: https://class.imooc.com/sale/go
     - text: Morty

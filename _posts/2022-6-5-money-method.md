@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 【赚钱】术
-category: 赚钱
+title: 【高阶理财】术
+category: 高阶理财
 ---
 ![story_new_final](http://rbwl8nwm4.hd-bkt.clouddn.com/img/story_new_final_0322.png)
 --------------------------------------------------20220605-----------------------------------------------

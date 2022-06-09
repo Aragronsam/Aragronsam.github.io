@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 【高阶理财】术
-category: 高阶理财
+title: 【取之有术】IC
+category: 取之有术
 ---
 ![story_new_final](http://rbwl8nwm4.hd-bkt.clouddn.com/img/story_new_final_0322.png)
 --------------------------------------------------20220605-----------------------------------------------

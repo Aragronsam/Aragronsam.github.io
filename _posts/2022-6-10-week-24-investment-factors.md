@@ -8,7 +8,7 @@ category: 投资视野
 ![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/factors-220610-4.jpg)
 ![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/factors-220610-1.jpg)
 ![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/factors-220610-2.jpg)
-![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/factors-220610-3.jpg)
+![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/jin-220611-1.jpg)
   
 
 

@@ -45,6 +45,7 @@ category: 片段
 ![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/fragment-220506-1.jpeg)
 ![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/fragment-220515-1.jpg)
 ![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/fragment-220515-2.jpg)
+![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/fragment-220613-1.jpg)
 ![wanshan](http://rbwl8nwm4.hd-bkt.clouddn.com/img/wanshan.png)
 
 

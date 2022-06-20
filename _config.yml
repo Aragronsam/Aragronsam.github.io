@@ -141,12 +141,12 @@ customLinks:
       url: http://www.atoolbox.net/Category.php?Id=23
     - text: Boot
       url: https://gitbook.cn/gitchat/column/5b86228ce15aa17d68b5b55a/topic/5baca87d80460e6b3d6f7abc
-    - text: Oschina
-      url: https://www.oschina.net/project/top_cn_2019?utm_source=gitee_ad
+    - text: Feixiaohao
+      url: https://www.feixiaohao.co
     - text: W3school
       url: http://www.w3school.com.cn/  
-    - text: Mashibing
-      url: https://www.mashibing.com/subject/1
+    - text: Google
+      url: https://www.google.com
     - text: Fontawesome
       url: https://fontawesome.com/search?favorites=staff
     - text: Boot51
@@ -169,8 +169,8 @@ customLinks:
       url: http://jsfiddle.net/BXZk2/
     - text: Flaticon
       url: https://www.flaticon.com/stickers-pack/animals-139
-    - text: Go
-      url: https://class.imooc.com/sale/go
+    - text: OKX
+      url: https://www.okx.com
     - text: Morty
       url: https://space.bilibili.com/393260578/video
     message: Others

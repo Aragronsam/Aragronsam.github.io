@@ -3,7 +3,7 @@ layout: post
 title: 【电竞】和平精英PEL职业联赛_2022_季后赛_第二周
 category: 电竞
 ---
-![story_new_final](http://rbwl8nwm4.hd-bkt.clouddn.com/img/story_new_final_0322.png)
+![story_new_final](http://rdr022gcy.hd-bkt.clouddn.com/img/story_new_final_0322.png)
 ----------------------------------------------------20220505[:3顶级老六]----------------------------------
 ![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/pel-220505-1.jpg)
 ![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/pel-220505-2.jpg)

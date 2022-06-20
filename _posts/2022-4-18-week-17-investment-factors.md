@@ -20,24 +20,24 @@ category: 投资视野
 ![](http://rdr022gcy.hd-bkt.clouddn.com/img/factors-220419-5.png)
 ![](http://rdr022gcy.hd-bkt.clouddn.com/img/factors-220419-6.png)
 --------------------------------------------------20220420------------------------------------------------
-![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/factors-220420-1.png)
+![](http://rdr13xtfo.hd-bkt.clouddn.com/img/factors-220420-1.png)
 --------------------------------------------------20220421------------------------------------------------
-![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/factors-220421-1.png)
-![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/factors-220421-2.png)
-![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/factors-220421-3.png)
-![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/factors-220421-4.png)
-![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/factors-220421-5.png)
+![](http://rdr13xtfo.hd-bkt.clouddn.com/img/factors-220421-1.png)
+![](http://rdr13xtfo.hd-bkt.clouddn.com/img/factors-220421-2.png)
+![](http://rdr13xtfo.hd-bkt.clouddn.com/img/factors-220421-3.png)
+![](http://rdr13xtfo.hd-bkt.clouddn.com/img/factors-220421-4.png)
+![](http://rdr13xtfo.hd-bkt.clouddn.com/img/factors-220421-5.png)
 --------------------------------------------------20220422------------------------------------------------
-![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/factors-220422-1.png)
-![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/factors-220422-2.png)
-![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/factors-220422-3.png)
-![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/factors-220422-4.png)
+![](http://rdr13xtfo.hd-bkt.clouddn.com/img/factors-220422-1.png)
+![](http://rdr13xtfo.hd-bkt.clouddn.com/img/factors-220422-2.png)
+![](http://rdr13xtfo.hd-bkt.clouddn.com/img/factors-220422-3.png)
+![](http://rdr13xtfo.hd-bkt.clouddn.com/img/factors-220422-4.png)
 --------------------------------------------------20220423------------------------------------------------
-![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/factors-220424-1.png)
+![](http://rdr13xtfo.hd-bkt.clouddn.com/img/factors-220424-1.png)
 --------------------------------------------------20220424------------------------------------------------
-![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/factors-220424-new-1.png)
+![](http://rdr13xtfo.hd-bkt.clouddn.com/img/factors-220424-new-1.png)
 --------------------------------------------------20220425------------------------------------------------
-![](http://rc5p5sl4z.hd-bkt.clouddn.com/img/factors-220425-1.png)
+![](http://rdr13xtfo.hd-bkt.clouddn.com/img/factors-220425-1.png)
   
 
 

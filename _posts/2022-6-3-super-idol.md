@@ -7,6 +7,7 @@ category: idol
 ![](http://rdr13xtfo.hd-bkt.clouddn.com/img/super-idol-220603-1.jpg)
 ![](http://rdr13xtfo.hd-bkt.clouddn.com/img/super-idol-220603-3.PNG)
 ![](http://rdr13xtfo.hd-bkt.clouddn.com/img/super-idol-220603-2.PNG)
+![](http://rdr13xtfo.hd-bkt.clouddn.com/img/jin-220611-1.jpg)
 ![wanshan](http://rdr022gcy.hd-bkt.clouddn.com/img/wanshan.png)
 
 

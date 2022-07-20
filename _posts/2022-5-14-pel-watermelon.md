@@ -3,8 +3,8 @@ layout: post
 title: 【罗生门】PEL220508大事件后续
 category: 罗生门
 ---
-![story_new_final](http://rdr022gcy.hd-bkt.clouddn.com/img/story_new_final_0322.png)
-![](http://rdr13xtfo.hd-bkt.clouddn.com/img/pel-watermelon-220514-1.jpeg)
+![story_new_final](http://rfbyhtcfm.hd-bkt.clouddn.com/img/story_new_final_0322.png)
+![](http://rfbyavrvr.hd-bkt.clouddn.com/img/pel-watermelon-220514-1.jpeg)
   
 
 

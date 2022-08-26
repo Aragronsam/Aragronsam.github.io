@@ -3,11 +3,11 @@ layout: post
 title: 【原理】投资
 category: 原理
 ---
-![story_new_final](http://rfbyhtcfm.hd-bkt.clouddn.com/img/story_new_final_0322.png)
+![story_new_final](http://rh8cub8wq.hd-bkt.clouddn.com/img/story_new_final_0322.png)
 -------------------------------------------------------------投资-------------------------------------------------------------
-![finance-1](http://rfbyhtcfm.hd-bkt.clouddn.com/img/finance-1.png)
-![finance-2](http://rfbyhtcfm.hd-bkt.clouddn.com/img/finance-2.png)
-![wanshan](http://rfbyhtcfm.hd-bkt.clouddn.com/img/wanshan.png)
+![finance-1](http://rh8cub8wq.hd-bkt.clouddn.com/img/finance-1.png)
+![finance-2](http://rh8cub8wq.hd-bkt.clouddn.com/img/finance-2.png)
+![wanshan](http://rh8cub8wq.hd-bkt.clouddn.com/img/wanshan.png)
 
 
 

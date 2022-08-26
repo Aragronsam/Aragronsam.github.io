@@ -3,7 +3,7 @@ layout: post
 title: 【投资】财商
 category: 投资
 ---
-![story_new_final](http://rfbyhtcfm.hd-bkt.clouddn.com/img/story_new_final_0322.png)
+![story_new_final](http://rh8cub8wq.hd-bkt.clouddn.com/img/story_new_final_0322.png)
 ![](http://rfbyavrvr.hd-bkt.clouddn.com/img/tang-220721-1.jpg)
 ![](http://rfbyavrvr.hd-bkt.clouddn.com/img/inspire-220717-1.jpg)
 --------------------------------------------------20220624------------------------------------------------
@@ -33,9 +33,9 @@ category: 投资
 ![](http://rfbyavrvr.hd-bkt.clouddn.com/img/factors-220512-5.png)
 ![](http://rfbyavrvr.hd-bkt.clouddn.com/img/factors-220512-6.png)
 ---------------------------------------------------------------------------------------------------------.
-![](http://rfbyhtcfm.hd-bkt.clouddn.com/img/financial-IQ-220324-1.PNG)
-![](http://rfbyhtcfm.hd-bkt.clouddn.com/img/financial-IQ-220325-1.PNG)
-![](http://rfbyhtcfm.hd-bkt.clouddn.com/img/situation-220418-1.jpg)
+![](http://rh8cub8wq.hd-bkt.clouddn.com/img/financial-IQ-220324-1.PNG)
+![](http://rh8cub8wq.hd-bkt.clouddn.com/img/financial-IQ-220325-1.PNG)
+![](http://rh8cub8wq.hd-bkt.clouddn.com/img/situation-220418-1.jpg)
 --------------------------------------------------20220422------------------------------------------------
 ![](http://rfbyavrvr.hd-bkt.clouddn.com/img/factors-220422-1.png)
 ![](http://rfbyavrvr.hd-bkt.clouddn.com/img/factors-220422-2.png)
@@ -49,4 +49,4 @@ category: 投资
 --------------------------------------------------20220509------------------------------------------------
 ![](http://rfbyavrvr.hd-bkt.clouddn.com/img/factors-220509-1.png)
 ![](http://rfbyavrvr.hd-bkt.clouddn.com/img/factors-220509-2.png)
-![wanshan](http://rfbyhtcfm.hd-bkt.clouddn.com/img/wanshan.png)
+![wanshan](http://rh8cub8wq.hd-bkt.clouddn.com/img/wanshan.png)

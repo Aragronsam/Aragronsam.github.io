@@ -5,7 +5,7 @@ category: 大家
 ---
 ![story_new_final](http://rh8cub8wq.hd-bkt.clouddn.com/img/story_new_final_0322.png)
 -------------------------------------------------------------金灿荣-------------------------------------------------------------
-![](http://rfbyavrvr.hd-bkt.clouddn.com/img/jin-220611-1.jpg)
+![](http://rh8dao9dj.hd-bkt.clouddn.com/img/jin-220611-1.jpg)
 ![smart-1](http://rh8cub8wq.hd-bkt.clouddn.com/img/smart-1.png)
 ![smart-2](http://rh8cub8wq.hd-bkt.clouddn.com/img/smart-2.png)
 ![smart-3](http://rh8cub8wq.hd-bkt.clouddn.com/img/smart-3.png)

@@ -18,8 +18,8 @@ category: 常识
 ![](http://rh8cub8wq.hd-bkt.clouddn.com/img/factors-220414-5.png)
 ![](http://rh8cub8wq.hd-bkt.clouddn.com/img/situation-220418-1.jpg)
 --------------------------------------------------20220429------------------------------------------------
-![](http://rfbyavrvr.hd-bkt.clouddn.com/img/factors-220429-1.png)
-![](http://rfbyavrvr.hd-bkt.clouddn.com/img/factors-220429-2.png)
+![](http://rh8dao9dj.hd-bkt.clouddn.com/img/factors-220429-1.png)
+![](http://rh8dao9dj.hd-bkt.clouddn.com/img/factors-220429-2.png)
 ![wanshan](http://rh8cub8wq.hd-bkt.clouddn.com/img/wanshan.png)
 
 

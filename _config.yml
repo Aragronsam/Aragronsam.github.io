@@ -96,7 +96,7 @@ customLinks:
     - text: 百度
       url: http://www.baidu.com/    
     - text: 日历
-      url: https://www.baidu.com/s?wd=2022+%E6%97%A5%E5%8E%86&tn=84053098_3_dg&ie=utf-8
+      url: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=84053098_3_dg&wd=2023%20%E6%97%A5%E5%8E%86&oq=2022%2520%25E6%2597%25A5%25E5%258E%2586&rsv_pq=e5abc9b8000e0dc5&rsv_t=44bcW5rBPDLFUqGfvwuvglYfyQvr8u617Dk3wecMrhdtdLQtjMk7QoHbbjAIGLI7WR7pqw&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=3&rsv_sug1=3&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&inputT=604&rsv_sug4=1772
     - text: 阮一峰
       url: http://www.ruanyifeng.com/
     - text: 廖雪峰
@@ -133,7 +133,7 @@ customLinks:
       url: http://www.iocoder.cn/
     - text: vip源码
       url: http://svip.iocoder.cn/index/
-    message: Friends
+    message: Go
   - item:
     - text: Toolbox
       url: http://www.atoolbox.net/Category.php?Id=23

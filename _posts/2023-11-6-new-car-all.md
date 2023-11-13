@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  【新能源车】全览v1.0
+title:  【新能源车】全览
 
 date:   2023-11-6 0:0:0
 category: 新能源车
 ---
 ![](http://s3s4mtyq6.hd-bkt.clouddn.com/img/6661699834311_.pic.jpg)
-![](http://s3s4mtyq6.hd-bkt.clouddn.com/img/new_car_all_v1.0.png)
+![](http://s3s4mtyq6.hd-bkt.clouddn.com/img/new_car_all_v1.0_2311131410.png)
+
 
 

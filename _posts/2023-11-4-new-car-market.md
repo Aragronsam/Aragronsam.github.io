@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  【新能源车】市场v1.0
+title:  【新能源车】市场
 
 date:   2023-11-4 0:0:0
 category: 新能源车
 ---
 ![](http://s3s4mtyq6.hd-bkt.clouddn.com/img/6661699834311_.pic.jpg)
-![](http://s3s4mtyq6.hd-bkt.clouddn.com/img/new_car_market_v1.0_2311130825.png)
+![](http://s3s4mtyq6.hd-bkt.clouddn.com/img/new_car_market_v1.0_2311131417.png)
 ![](http://s3s4mtyq6.hd-bkt.clouddn.com/img/IMG_1612.PNG))
 ![](http://s3s4mtyq6.hd-bkt.clouddn.com/img/IMG_1613.PNG)
 ![](http://s3s4mtyq6.hd-bkt.clouddn.com/img/IMG_1614.PNG)
